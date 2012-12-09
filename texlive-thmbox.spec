@@ -51,3 +51,16 @@ with frames and various aesthetic features. The standard macro
 %install
 mkdir -p %{buildroot}%{_texmfdistdir}
 cp -fpar tex doc source %{buildroot}%{_texmfdistdir}
+
+
+%changelog
+* Wed Jan 04 2012 Paulo Andrade <pcpa@mandriva.com.br> 20090325-2
++ Revision: 756833
+- Rebuild to reduce used resources
+
+* Sat Nov 05 2011 Paulo Andrade <pcpa@mandriva.com.br> 20090325-1
++ Revision: 719729
+- texlive-thmbox
+- texlive-thmbox
+- texlive-thmbox
+
