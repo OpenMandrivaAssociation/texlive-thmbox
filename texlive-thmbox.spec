@@ -6,7 +6,7 @@
 # catalog-version undef
 Name:		texlive-thmbox
 Version:	20090325
-Release:	5
+Release:	6
 Summary:	Decorate theorem statements
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/thmbox
