@@ -3,7 +3,7 @@ Version:	15878
 Release:	2
 Summary:	Decorate theorem statements
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/thmbox
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/thmbox
 License:	LPPL
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/thmbox.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/thmbox.doc.r%{version}.tar.xz
